@@ -1,0 +1,78 @@
+/* .bg-dark-color {
+  background-color: #10162f !important;
+  color: #fff;
+}
+
+.box-content {
+  background-color: #10162f !important;
+  color: #fff;
+  padding-top: 4rem;
+  width: 100% !important;
+  box-sizing: border-box;
+}
+
+.box-content-1 {
+  background-color: #ffd300 !important;
+  width: 100%;
+} */
+
+body {
+  background-color: #f5fcff;
+}
+
+.bg-danger-subtle {
+  background-color: #10162f !important;
+  color: #ffffff;
+}
+
+.black p-5 {
+  background-color: #10162f !important;
+}
+
+.buildSkil_con {
+  background-color: #f5fcff !important;
+}
+
+.grow-as-team-con {
+  background-color: #10162f !important;
+  color: #ffffff;
+}
+
+.elevate-con {
+  background-color: #ffd300 !important;
+}
+
+.teams warapper {
+  background-color: #f5fcff !important;
+}
+
+/* .ent {
+  vertical-align: text-top;
+  background-color: #ffd300;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 0.875rem;
+  margin: 0;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  vertical-align: text-top;
+} */
+
+.resources_con {
+  background-color: #10162f !important;
+  color: #ffffff;
+}
+
+/* .col-xl-2 ul:last-child {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.col-xl-2 ul:last-child li {
+  margin-right: 5px;
+} */
